@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12341" started-at="2023-07-22T16:59:35Z" finished-at="2023-07-22T16:59:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12341" started-at="2023-07-22T16:59:35Z" finished-at="2023-07-22T16:59:47Z">
+      <class name="variousConcetps.LoginTest">
+        <test-method status="PASS" signature="reportGenerator()[pri:0, instance:variousConcetps.LoginTest@4ec6a292]" name="reportGenerator" is-config="true" duration-ms="100" started-at="2023-07-22T11:59:35Z" finished-at="2023-07-22T11:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportGenerator -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcetps.LoginTest@4ec6a292]" name="init" is-config="true" duration-ms="5379" started-at="2023-07-22T11:59:35Z" finished-at="2023-07-22T11:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:variousConcetps.LoginTest@4ec6a292]" name="loginTest" duration-ms="1687" started-at="2023-07-22T11:59:40Z" data-provider="loginDataMulitUser" finished-at="2023-07-22T11:59:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo@techfios.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcetps.LoginTest@4ec6a292]" name="init" is-config="true" duration-ms="1904" started-at="2023-07-22T11:59:42Z" finished-at="2023-07-22T11:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:variousConcetps.LoginTest@4ec6a292]" name="loginTest" duration-ms="506" started-at="2023-07-22T11:59:44Z" data-provider="loginDataMulitUser" finished-at="2023-07-22T11:59:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo@techfios1.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcetps.LoginTest@4ec6a292]" name="init" is-config="true" duration-ms="2027" started-at="2023-07-22T11:59:44Z" finished-at="2023-07-22T11:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:variousConcetps.LoginTest@4ec6a292]" name="loginTest" duration-ms="543" started-at="2023-07-22T11:59:47Z" data-provider="loginDataMulitUser" finished-at="2023-07-22T11:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo@techfios1.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2131321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="reporterClose()[pri:0, instance:variousConcetps.LoginTest@4ec6a292]" name="reporterClose" is-config="true" duration-ms="187" started-at="2023-07-22T11:59:47Z" finished-at="2023-07-22T11:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterClose -->
+      </class> <!-- variousConcetps.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
